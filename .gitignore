@@ -2,4 +2,6 @@
 .idea
 .history
 
+__pycache__
+
 venv
